@@ -1,4 +1,4 @@
-var url = window-location.href;
+var url = window.location.href;
 var swLocation = '/MiPrimerPWA/sw.js';
 
 if (navigator.serviceWorker) {
